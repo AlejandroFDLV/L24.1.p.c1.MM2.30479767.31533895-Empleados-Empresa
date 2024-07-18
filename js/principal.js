@@ -26,4 +26,4 @@ emp.procesarEmpleado(emp6)
 
 let salida=document.getElementById("salida")
 salida.innerHTML=`El promedio de edad de los hombres es de: ${emp.promedioHombres()}.
-<br>La mujer con mayor edad es: ${emp.mujerMayorNombre()} ya que tiene ${emp.mayorEdad()} años.`
+<br>La mujer con mayor edad se llama: ${emp.mujerMyrNombre()} ya que tiene ${emp.mayorEdad()} años.`

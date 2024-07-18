@@ -13,5 +13,5 @@ export default class Cl_Empresa{
     }
     promedioHombres(){return this.acEdHom/3}
     mayorEdad(){return this.mujME}
-    mujerMayorNombre(){return this.mujMN}
+    mujerMyrNombre(){return this.mujMN}
 }
